@@ -68,17 +68,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 330468139;
-			PBXWorkspaceStateSaveDate = 330468139;
+			PBXPerProjectTemplateStateSaveDate = 330622334;
+			PBXWorkspaceStateSaveDate = 330622334;
 		};
 		perUserProjectItems = {
-			56DA3B5613B28B3000DB7222 /* PBXBookmark */ = 56DA3B5613B28B3000DB7222 /* PBXBookmark */;
-			56DA3B7113B36D7500DB7222 /* XCBuildMessageTextBookmark */ = 56DA3B7113B36D7500DB7222 /* XCBuildMessageTextBookmark */;
-			56DA3B8B13B36FDC00DB7222 /* PBXTextBookmark */ = 56DA3B8B13B36FDC00DB7222 /* PBXTextBookmark */;
-			56DA3B8C13B36FDC00DB7222 /* PBXTextBookmark */ = 56DA3B8C13B36FDC00DB7222 /* PBXTextBookmark */;
-			56DA3BA113B38A1100DB7222 /* PBXTextBookmark */ = 56DA3BA113B38A1100DB7222 /* PBXTextBookmark */;
-			56DA3BA213B38A1100DB7222 /* PBXTextBookmark */ = 56DA3BA213B38A1100DB7222 /* PBXTextBookmark */;
-			56DA3BA313B38A1100DB7222 /* PBXTextBookmark */ = 56DA3BA313B38A1100DB7222 /* PBXTextBookmark */;
+			56DA3B5613B28B3000DB7222 = 56DA3B5613B28B3000DB7222 /* PBXBookmark */;
+			56DA3B7113B36D7500DB7222 = 56DA3B7113B36D7500DB7222 /* PBXTextBookmark */;
+			56DA3B8B13B36FDC00DB7222 = 56DA3B8B13B36FDC00DB7222 /* PBXTextBookmark */;
+			56DA3B8C13B36FDC00DB7222 = 56DA3B8C13B36FDC00DB7222 /* PBXTextBookmark */;
+			56DA3BA113B38A1100DB7222 = 56DA3BA113B38A1100DB7222 /* PBXTextBookmark */;
+			56DA3BA213B38A1100DB7222 = 56DA3BA213B38A1100DB7222 /* PBXTextBookmark */;
+			56DA3BA313B38A1100DB7222 = 56DA3BA313B38A1100DB7222 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 56DA3AE613AFCA3600DB7222 /* Source Control */;
 		userBuildSettings = {
@@ -132,11 +132,10 @@
 		isa = PBXBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* InstatwitViewController.m */;
 	};
-	56DA3B7113B36D7500DB7222 /* XCBuildMessageTextBookmark */ = {
+	56DA3B7113B36D7500DB7222 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		comments = "Method definition for '-sendButtonTapped:' not found";
 		fRef = 28D7ACF70DDB3853001CB0EB /* InstatwitViewController.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
 		rLoc = 55;
 		rType = 1;
